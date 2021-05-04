@@ -6,9 +6,16 @@
 <head>
 <meta charset="UTF-8">
 <title>The Storm</title>
+<style>
+	
+body {
+	background-color:#B4B8AB;
+}
+</style>
+	
 </head>
 
-<body style="background-color:#B4B8AB">
+<body>
 
 	
 	<h1 style="color:#153243; font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif'; font-size: 75pt" title=":)">The Storm</h1>
