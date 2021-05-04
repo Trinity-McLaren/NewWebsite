@@ -16,7 +16,8 @@ body {
 </head>
 
 <body>
-
+	
+<div class="cloud"></div>
 	
 	<h1 style="color:#153243; font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif'; font-size: 75pt" title=":)">The Storm</h1>
 	
