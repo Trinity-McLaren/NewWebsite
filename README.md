@@ -11,7 +11,7 @@
 body {
 	background-color:#B4B8AB;
 }
-</style>
+</style> 
 	
 </head>
 
