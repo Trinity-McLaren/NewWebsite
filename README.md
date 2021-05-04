@@ -1,6 +1,3 @@
-
-
-
 # NewWebsite
 <html lang="en">
 <head>
