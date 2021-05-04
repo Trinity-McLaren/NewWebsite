@@ -18,7 +18,7 @@ body {
 <body>
 	
 
-.cloud {
+.cloud { 
 	width: 350px; height: 120px;
 	
 	background: #f2f9fe;
