@@ -8,8 +8,8 @@
 <title>The Storm</title>
 </head>
 	
-<body style= background-colour:"#B4B8AB"> 
-	
+<body>
+	<style="background-colour:#B4B8AB"> 
 
 	
 	<h1 style="color:#153243; font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif'; font-size: 75pt" title=":)">The Storm</h1>
