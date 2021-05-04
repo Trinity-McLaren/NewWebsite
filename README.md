@@ -11,12 +11,13 @@
 body {
 	background-color:#B4B8AB;
 }
-</style>
+</style> 
 	
 </head>
 
 <body>
 	
+
 .cloud {
 	width: 350px; height: 120px;
 	
