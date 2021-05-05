@@ -22,7 +22,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 <p style="color:#284B63; font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'; text-align: justify; border:thin solid #F4F9E9; font-size: 25pt; " title="I hope you are having a good day">	When I am stressed I like to imagine myself in a storm. Listening to the sounds of birds, leaves being blown by the wind, and the rain grounds me in the moment. It reminds of my true want in life: to run off and live in the forest away from society. Lots of students are suffering from poor <a href="https://trinity-mclaren.github.io/Mental-Health/" class="button pill"> Mental Health </a>, and deserve to take time for themselves. Relax in this mini storm:</p>
 
 
-<h1> <a href="https://youtu.be/M3_bxPv34Ew"> ![DarlingDearestCassowary-size_restricted](https://user-images.githubusercontent.com/83561106/117207600-1e630a80-adc2-11eb-85b3-4ea2b5d90e2b.gif)
+<h1> <a href="https://youtu.be/M3_bxPv34Ew"> 🌧
 </a> </h1>
 
 	
