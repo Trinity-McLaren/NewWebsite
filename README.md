@@ -20,7 +20,7 @@ body {
 
 <svg width="100" height="100">
   <circle cx="50" cy="50" r="40"
-  stroke="#CBDFBD" stroke-width="4" fill="#F19C79" />
+  stroke="#EEF0EB" stroke-width="4" fill="#EEF0EB" />
 </svg>
 
 
