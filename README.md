@@ -16,9 +16,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 	
 <h1 style="color:#153243; font-family:Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif'; font-size: 75pt" title=":)">The Storm</h1>
 	
-<svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 15a4 4 0 004 4h9a5 5 0 10-.1-9.999 5.002 5.002 0 10-9.78 2.096A4.001 4.001 0 003 15z" />
-</svg>
+
 	
 <p style="color:#284B63; font-family:'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'; text-align: justify; border:thin solid #F4F9E9; font-size: 25pt; " title="I hope you are having a good day">	When I am stressed I like to imagine myself in a storm. Listening to the sounds of birds and the leaves being blown by the wind, and maybe even the sound of rain grounds me in the moment. It reminds of my true want in life: to run off and live in the forest away from society. In life, we are like <a href="https://trinity-mclaren.github.io/TheFool/" class="button pill"> The Fool </a>, the first Major Arcana in Tarot. Relax in this mini storm:</p>
 
